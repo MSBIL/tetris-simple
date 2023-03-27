@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: tetris
+Version: 1.0.0
+Summary: Simple Tetris game project
+Author: Mehmet Bilgili
+Requires-Python: >=3.9
+License-File: LICENSE
+
+See README file for longer description of project

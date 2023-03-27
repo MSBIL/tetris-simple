@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/__init__.py
+src/bag.py
+src/board.py
+src/piece.py
+src/shape.py
+src/tetris.egg-info/PKG-INFO
+src/tetris.egg-info/SOURCES.txt
+src/tetris.egg-info/dependency_links.txt
+src/tetris.egg-info/top_level.txt

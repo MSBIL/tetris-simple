@@ -1,0 +1,2 @@
+#!/bin/bash
+python tetris.py $1
